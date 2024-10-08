@@ -1,0 +1,49 @@
+{
+    "carat-luma": [
+        [
+            "imagetos3",
+            "LumaAI_Client",
+            "LumaAI_Text2Video",
+            "LumaAI_Image2Video"
+        ],
+        {
+            "title_aux": "CARAT LUMA",
+            "git_address": ""
+        }
+    ],
+    "carat-utils": [
+        [
+            "resize_r1024",
+            "resize_r768",
+            "resize_r512",
+            "modify_prompt"
+        ],
+        {
+            "title_aux": "CARAT UTILS",
+            "git_address": ""
+        }
+    ],
+    "carat-mask": [
+        [
+            "mask_generator",
+            "mask_generator_short_hair",
+            "mask_generator_short_box",
+            "check_union",
+            "depth_computation",
+            "artifact_detection",
+            "mask_dim_mapping",
+            "hair_mask_intersection",
+            "bangs_crop",
+            "short_cut_crop",
+            "hair_crop",
+            "first_crop",
+            "GrowMask_with_ratio",
+            "short_cut_restore",
+            "mediapipe_hair_seg"
+        ],
+        {
+            "title_aux": "CARAT MASK",
+            "git_address": ""
+        }
+    ]
+}
