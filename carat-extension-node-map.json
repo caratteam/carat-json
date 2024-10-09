@@ -1,28 +1,4 @@
 {
-    "carat-luma": [
-        [
-            "imagetos3",
-            "LumaAI_Client",
-            "LumaAI_Text2Video",
-            "LumaAI_Image2Video"
-        ],
-        {
-            "title_aux": "CARAT LUMA",
-            "git_address": ""
-        }
-    ],
-    "carat-utils": [
-        [
-            "resize_r1024",
-            "resize_r768",
-            "resize_r512",
-            "modify_prompt"
-        ],
-        {
-            "title_aux": "CARAT UTILS",
-            "git_address": ""
-        }
-    ],
     "carat-mask": [
         [
             "mask_generator",
@@ -45,5 +21,47 @@
             "title_aux": "CARAT MASK",
             "git_address": ""
         }
-    ]
+    ],
+    "carat-utils": [
+        [
+            "resize_r1024",
+            "resize_r768",
+            "resize_r512",
+            "modify_prompt"
+        ],
+        {
+            "title_aux": "CARAT UTILS",
+            "git_address": ""
+        }
+    ],
+    "carat-luma": [
+        [
+            "imagetos3",
+            "LumaAI_Client",
+            "LumaAI_Text2Video",
+            "LumaAI_Image2Video"
+        ],
+        {
+            "title_aux": "CARAT LUMA",
+            "git_address": ""
+        }
+    ],
+    "carat-DallE3": [
+        [
+            "DallE3_PoP"
+        ],
+        {
+            "title_aux": "CARAT DallE3",
+            "git_address": ""
+        }
+    ],
+    "carat-flux": [
+        [
+            "FLUX_generator"
+        ],
+        {
+            "title_aux": "CARAT FLUX",
+            "git_address": ""
+        }
+    ],
 }
