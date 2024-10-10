@@ -27,7 +27,8 @@
             "resize_r1024",
             "resize_r768",
             "resize_r512",
-            "modify_prompt"
+            "modify_prompt",
+            "prompt_random_choice"
         ],
         {
             "title_aux": "CARAT UTILS",
@@ -61,6 +62,17 @@
         ],
         {
             "title_aux": "CARAT FLUX",
+            "git_address": ""
+        }
+    ],
+    "carat-runway": [
+        [
+            "Runway_imagetos3",
+            "Runway_Client",
+            "Runway_Image2Video"
+        ],
+        {
+            "title_aux": "CARAT RUNWAY",
             "git_address": ""
         }
     ]
