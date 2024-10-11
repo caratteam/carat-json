@@ -75,5 +75,17 @@
             "title_aux": "CARAT RUNWAY",
             "git_address": ""
         }
+    ],
+    "carat-kling": [
+        [
+            "Kling_imagetos3",
+            "Kling_Client",
+            "Kling_Text2Video",
+            "Kling_Image2Video"
+        ],
+        {
+            "title_aux": "CARAT KLING",
+            "git_address": ""
+        }
     ]
 }
