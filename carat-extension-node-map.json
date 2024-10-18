@@ -87,5 +87,15 @@
             "title_aux": "CARAT KLING",
             "git_address": ""
         }
+    ],
+    "carat-minimax": [
+        [
+            "Minimax_imagetos3",
+            "Minimax_Image2Video"
+        ],
+        {
+            "title_aux": "CARAT MINIMAS",
+            "git_address": ""
+        }
     ]
 }
