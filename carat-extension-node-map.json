@@ -97,5 +97,14 @@
             "title_aux": "CARAT MINIMAS",
             "git_address": ""
         }
+    ],
+    "carat-SD": [
+        [
+            "SD_generator"
+        ],
+        {
+            "title_aux": "CARAT STABLEDIFFUSION",
+            "git_address": ""
+        }
     ]
 }
