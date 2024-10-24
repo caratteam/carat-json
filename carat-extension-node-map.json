@@ -106,5 +106,14 @@
             "title_aux": "CARAT STABLEDIFFUSION",
             "git_address": ""
         }
+    ],
+    "carat-Ideogram": [
+        [
+            "Ideogram_generator"
+        ],
+        {
+            "title_aux": "CARAT IDEOGRAM",
+            "git_address": ""
+        }
     ]
 }
