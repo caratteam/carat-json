@@ -28,7 +28,10 @@
             "resize_r768",
             "resize_r512",
             "modify_prompt",
-            "prompt_random_choice"
+            "prompt_random_choice",
+            "multiple_of_x",
+            "imagetos3",
+            "download_from_url"
         ],
         {
             "title_aux": "CARAT UTILS",
@@ -37,7 +40,6 @@
     ],
     "carat-luma": [
         [
-            "imagetos3",
             "LumaAI_Client",
             "LumaAI_Text2Video",
             "LumaAI_Image2Video"
@@ -67,7 +69,6 @@
     ],
     "carat-runway": [
         [
-            "Runway_imagetos3",
             "Runway_Client",
             "Runway_Image2Video"
         ],
@@ -78,7 +79,6 @@
     ],
     "carat-kling": [
         [
-            "Kling_imagetos3",
             "Kling_Client",
             "Kling_Text2Video",
             "Kling_Image2Video"
@@ -90,7 +90,6 @@
     ],
     "carat-minimax": [
         [
-            "Minimax_imagetos3",
             "Minimax_Image2Video"
         ],
         {
@@ -113,6 +112,17 @@
         ],
         {
             "title_aux": "CARAT IDEOGRAM",
+            "git_address": ""
+        }
+    ],
+    "carat-suno": [
+        [
+            "SUNO_START_SERVER",
+            "SUNO_KILL_SERVER",
+            "SUNO_Text2Audio"
+        ],
+        {
+            "title_aux": "CARAT SUNO",
             "git_address": ""
         }
     ]
