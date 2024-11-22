@@ -125,5 +125,15 @@
             "title_aux": "CARAT SUNO",
             "git_address": ""
         }
+    ],
+    "carat-recraft": [
+        [
+            "Recraft_Client",
+            "Recraft_Image_generator"
+        ],
+        {
+            "title_aux": "CARAT RECRAFT",
+            "git_address": ""
+        }
     ]
 }
