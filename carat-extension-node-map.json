@@ -60,7 +60,8 @@
     ],
     "carat-flux": [
         [
-            "FLUX_generator"
+            "FLUX_generator",
+            "FLUX_generator_controlnet"
         ],
         {
             "title_aux": "CARAT FLUX",
