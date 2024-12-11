@@ -136,5 +136,16 @@
             "title_aux": "CARAT RECRAFT",
             "git_address": ""
         }
+    ],
+    "carat-memo": [
+        [
+            "MEMO_video_generation",
+            "MEMO_audio_preprocess",
+            "MEMO_face_crop"
+        ],
+        {
+            "title_aux": "CARAT MEMO",
+            "git_address": ""
+        }
     ]
 }
