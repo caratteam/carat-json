@@ -72,7 +72,8 @@
     "carat-runway": [
         [
             "Runway_Client",
-            "Runway_Image2Video"
+            "Runway_Image2Video",
+            "Runway_imagecrop"
         ],
         {
             "title_aux": "CARAT RUNWAY",
