@@ -31,7 +31,8 @@
             "prompt_random_choice",
             "multiple_of_x",
             "imagetos3",
-            "download_from_url"
+            "download_from_url",
+            "image_overlay"
         ],
         {
             "title_aux": "CARAT UTILS",
