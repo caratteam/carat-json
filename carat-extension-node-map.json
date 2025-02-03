@@ -150,5 +150,14 @@
             "title_aux": "CARAT MEMO",
             "git_address": ""
         }
+    ],
+    "carat-imagen": [
+        [
+            "GoogleImagen3_generator"
+        ],
+        {
+            "title_aux": "CARAT IMAGEN3",
+            "git_address": ""
+        }
     ]
 }
