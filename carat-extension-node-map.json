@@ -159,5 +159,14 @@
             "title_aux": "CARAT IMAGEN3",
             "git_address": ""
         }
+    ],
+    "carat-wanx": [
+        [
+            "Wanx_Text2Video"
+        ],
+        {
+            "title_aux": "CARAT WANX2.1",
+            "git_address": ""
+        }
     ]
 }
