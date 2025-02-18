@@ -168,5 +168,17 @@
             "title_aux": "CARAT WANX2.1",
             "git_address": ""
         }
+    ],
+    "carat-vidu": [
+        [
+            "VIDU_Text2Video",
+            "VIDU_Image2Video",
+            "VIDU_Image2Video_Keyframes",
+            "VIDU_Reference2Video"
+        ],
+        {
+            "title_aux": "CARAT VIDU",
+            "git_address": ""
+        }
     ]
 }
