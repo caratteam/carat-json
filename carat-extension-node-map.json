@@ -93,11 +93,11 @@
     ],
     "carat-minimax": [
         [
-            "Minimax_Image2Video",
+            "Minimax_GenerateVideo",
             "Minimax_SubjectRef"
         ],
         {
-            "title_aux": "CARAT MINIMAS",
+            "title_aux": "CARAT MINIMAX",
             "git_address": ""
         }
     ],
