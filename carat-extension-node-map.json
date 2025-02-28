@@ -94,7 +94,8 @@
     "carat-minimax": [
         [
             "Minimax_GenerateVideo",
-            "Minimax_SubjectRef"
+            "Minimax_SubjectRef",
+            "Minimax_GenerateImage"
         ],
         {
             "title_aux": "CARAT MINIMAX",
