@@ -181,5 +181,14 @@
             "title_aux": "CARAT VIDU",
             "git_address": ""
         }
+    ],
+    "carat-veo": [
+        [
+            "GoogleVEO2_generator"
+        ],
+        {
+            "title_aux": "CARAT VEO2",
+            "git_address": ""
+        }
     ]
 }
