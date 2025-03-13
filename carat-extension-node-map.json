@@ -190,5 +190,14 @@
             "title_aux": "CARAT VEO2",
             "git_address": ""
         }
+    ],
+    "carat-gpt": [
+        [
+            "ChatGPT_GenerateText"
+        ],
+        {
+            "title_aux": "CARAT GPT",
+            "git_address": ""
+        }
     ]
 }
