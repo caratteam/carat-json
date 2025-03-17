@@ -62,7 +62,10 @@
     "carat-flux": [
         [
             "FLUX_generator",
-            "FLUX_generator_controlnet"
+            "FLUX_generator_controlnet",
+            "FLUX_finetune",
+            "FLUX_generator_with_lora_pro",
+            "FLUX_generator_with_lora_ultra"
         ],
         {
             "title_aux": "CARAT FLUX",
