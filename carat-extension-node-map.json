@@ -137,7 +137,8 @@
     "carat-recraft": [
         [
             "Recraft_Client",
-            "Recraft_Image_generator"
+            "Recraft_Image_generator",
+            "Recraft_Create_Own_Style"
         ],
         {
             "title_aux": "CARAT RECRAFT",
