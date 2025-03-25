@@ -203,5 +203,40 @@
             "title_aux": "CARAT GPT",
             "git_address": ""
         }
+    ],
+    "ComfyUI-WanVideoWrapper": [
+        [
+            "WanVideoSampler",
+            "WanVideoDecode",
+            "WanVideoTextEncode",
+            "WanVideoModelLoader",
+            "WanVideoVAELoader",
+            "LoadWanVideoT5TextEncoder",
+            "WanVideoImageClipEncode",
+            "WanVideoClipVisionEncode",
+            "WanVideoImageToVideoEncode",
+            "LoadWanVideoClipTextEncoder",
+            "WanVideoEncode",
+            "WanVideoBlockSwap",
+            "WanVideoTorchCompileSettings",
+            "WanVideoLatentPreview",
+            "WanVideoEmptyEmbeds",
+            "WanVideoLoraSelect",
+            "WanVideoLoraBlockEdit",
+            "WanVideoEnhanceAVideo",
+            "WanVideoContextOptions",
+            "WanVideoTeaCache",
+            "WanVideoVRAMManagement",
+            "WanVideoTextEmbedBridge",
+            "WanVideoFlowEdit",
+            "WanVideoControlEmbeds",
+            "WanVideoSLG",
+            "WanVideoTinyVAELoader",
+            "WanVideoLoopArgs"
+        ],
+        {
+            "title_aux": "ComfyUI WanVideoWrapper",
+            "git_address": ""
+        }
     ]
 }
