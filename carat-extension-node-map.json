@@ -15,7 +15,8 @@
             "first_crop",
             "GrowMask_with_ratio",
             "short_cut_restore",
-            "mediapipe_hair_seg"
+            "mediapipe_hair_seg",
+            "extract_mask_from_kling"
         ],
         {
             "title_aux": "CARAT MASK",
@@ -32,7 +33,9 @@
             "multiple_of_x",
             "imagetos3",
             "download_from_url",
-            "image_overlay"
+            "image_overlay",
+            "image_overlay_full",
+            "audio_concat"
         ],
         {
             "title_aux": "CARAT UTILS",
