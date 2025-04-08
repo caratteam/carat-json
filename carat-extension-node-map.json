@@ -88,9 +88,9 @@
     ],
     "carat-kling": [
         [
-            "Kling_Client",
             "Kling_Text2Video",
-            "Kling_Image2Video"
+            "Kling_Image2Video",
+            "Kling_Effect"
         ],
         {
             "title_aux": "CARAT KLING",
