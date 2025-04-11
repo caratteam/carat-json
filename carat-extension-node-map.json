@@ -15,8 +15,7 @@
             "first_crop",
             "GrowMask_with_ratio",
             "short_cut_restore",
-            "mediapipe_hair_seg",
-            "extract_mask_from_kling"
+            "mediapipe_hair_seg"
         ],
         {
             "title_aux": "CARAT MASK",
@@ -92,7 +91,8 @@
             "Kling_Text2Video",
             "Kling_Image2Video",
             "Kling_Effect",
-            "VTON_preprocessing"
+            "VTON_preprocessing",
+            "extract_mask_from_kling"
         ],
         {
             "title_aux": "CARAT KLING",
