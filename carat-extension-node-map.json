@@ -35,6 +35,7 @@
             "download_from_url",
             "image_overlay",
             "image_overlay_full",
+            "image_overlay_general",
             "audio_concat"
         ],
         {
@@ -90,7 +91,8 @@
         [
             "Kling_Text2Video",
             "Kling_Image2Video",
-            "Kling_Effect"
+            "Kling_Effect",
+            "VTON_preprocessing"
         ],
         {
             "title_aux": "CARAT KLING",
