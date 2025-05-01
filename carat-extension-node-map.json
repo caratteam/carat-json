@@ -202,7 +202,8 @@
     ],
     "carat-gpt": [
         [
-            "ChatGPT_GenerateText"
+            "ChatGPT_GenerateText",
+            "GPTImage_GenerateOrEdit"
         ],
         {
             "title_aux": "CARAT GPT",
