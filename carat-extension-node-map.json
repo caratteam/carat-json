@@ -210,6 +210,15 @@
             "git_address": ""
         }
     ],
+    "carat-falai": [
+        [
+            "FALAI_KlingVTON"
+        ],
+        {
+            "title_aux": "CARAT FALAI",
+            "git_address": ""
+        }
+    ],
     "ComfyUI-WanVideoWrapper": [
         [
             "WanVideoSampler",
